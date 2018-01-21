@@ -1,3 +1,7 @@
+//Jon Gorman
+//Austin Coding Academy JavaScript 311
+//advanced-testing-practices
+//1/21/18
 import {head, map, filter, find, findLast, sort, reverse, tail} from "../services/array-functions";
 
 const names = ["Jon", "Bob", "Ted", "Barney", "Lilly", "Robin", "Saul", "Axe"];
