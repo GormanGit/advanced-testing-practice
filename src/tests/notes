@@ -1,0 +1,14 @@
+notes:
+to run the test be in:
+src/tests/
+and then run:
+npm test array-functions.test.js
+
+make sure all imported file names are listed in the import line in array-functions.test.js
+
+also, make sure the key words in writing the tests are:
+
+describe
+it
+expect
+.toEqual
